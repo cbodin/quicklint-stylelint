@@ -1,0 +1,22 @@
+{
+  "name": "@cbodin/quicklint-stylelint",
+  "version": "1.0.0",
+  "description": "Pre-configured Stylelint using stylelint-config-standard as a base, packaged in a simple CLI",
+  "author": "Christofer Bodin <christofer@christoferbodin.se>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbodin/quicklint-stylelint.git"
+  },
+  "main": "./bin/cli.js",
+  "bin": {
+    "quicklint-stylelint": "./bin/cli.js"
+  },
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "stylelint": "^9.10.1",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-formatter-pretty": "^1.0.3"
+  }
+}
