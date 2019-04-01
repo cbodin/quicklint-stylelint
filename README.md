@@ -11,7 +11,7 @@ Installation
 ------
 Add the package as a dev dependency:
 ```bash
-npm i -D github:cbodin/quicklint-stylelint#v1.0.0
+npm i -D github:cbodin/quicklint-stylelint#v1.1.0
 ```
 
 

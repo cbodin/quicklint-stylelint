@@ -1,6 +1,6 @@
 {
   "name": "@cbodin/quicklint-stylelint",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Pre-configured Stylelint using stylelint-config-standard as a base, packaged in a simple CLI",
   "author": "Christofer Bodin <christofer@christoferbodin.se>",
   "license": "MIT",
