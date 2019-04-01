@@ -17,7 +17,7 @@ npm i -D github:cbodin/quicklint-stylelint#v1.0.0
 
 Usage
 ------
-The default behavior is to lint all the `.pcss` and `.css` files in the `src/` folder.
+The default behavior is to lint all the `.pcss`, `.css` and `.vue` files in the `src/` folder.
 If any other folders should be used, the search paths can be specified with the `--paths` argument.
 
 To include both the default `src/` folder and a `server/` folder, both paths will need to be supplied:

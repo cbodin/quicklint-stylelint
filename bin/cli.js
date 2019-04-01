@@ -25,7 +25,7 @@
 
   // Create file globs of all paths
   const globs = [];
-  const extensions = ['.pcss', '.css'];
+  const extensions = ['.pcss', '.css', '.vue'];
 
   for (const extension of extensions) {
     for (const folderPath of args.paths.split(',')) {
